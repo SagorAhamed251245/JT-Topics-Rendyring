@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "category": "Mission",
+        "topic": "The importance of establishing a strong online presence for English businesses",
+        "keyWords": ["Online presence", "Small business", "Digital marketing", "Branding"]
+    },
+    {
+        "id": 2,
+        "category": "Mission",
+        "topic": "How fast turnaround times in logo and website design benefit your business",
+        "keyWords": ["Fast turnaround", "Logo design", "Website design", "Branding"]
+    },
+    {
+        "id": 3,
+        "category": "Mission",
+        "topic": "The impact of social media advertising on customer engagement and sales",
+        "keyWords": ["Social media advertising", "Customer engagement", "Sales", "Digital marketing"]
+    },
+    {
+        "id": 4,
+        "category": "Mission",
+        "topic": "The benefits of implementing an email marketing strategy for business growth",
+        "keyWords": ["Email marketing", "Business growth", "Customer retention", "Lead generation"]
+    },
+    {
+        "id": 5,
+        "category": "Mission",
+        "topic": "The role of search engine optimization (SEO) in driving organic traffic to your website",
+        "keyWords": ["Search engine optimization", "Organic traffic", "Website ranking", "Keyword research"]
+    },
+    {
+        "id": 6,
+        "category": "ICP",
+        "topic": "Identifying and understanding your ideal customer profile",
+        "keyWords": ["Ideal customer profile", "Target audience", "Customer segmentation", "Demographics"]
+    },
+    {
+        "id": 7,
+        "category": "ICP",
+        "topic": "Creating buyer personas to target your ideal customers effectively",
+        "keyWords": ["Buyer personas", "Target audience", "Customer profiling", "Marketing strategy"]
+    },
+    {
+        "id": 8,
+        "category": "ICP",
+        "topic": "Segmenting your customer base for personalized marketing campaigns",
+        "keyWords": ["Customer segmentation", "Personalized marketing", "Targeted campaigns", "Customer preferences"]
+    },
+    {
+        "id": 9,
+        "category": "ICP",
+        "topic": "The role of market research in defining your ideal customer profile",
+        "keyWords": ["Market research", "Customer insights", "Competitive analysis", "Customer needs"]
+    },
+    {
+        "id": 10,
+        "category": "Products",
+        "topic": "Product development strategies for successful new product launches",
+        "keyWords": ["Product development", "New product launches", "Market research", "Product lifecycle"]
+    },
+    {
+        "id": 11,
+        "category": "Products",
+        "topic": "The benefits of product diversification for business growth",
+        "keyWords": ["Product diversification", "Business growth", "Market expansion", "Risk management"]
+    },
+    {
+        "id": 12,
+        "category": "Products",
+        "topic": "Effective packaging and labeling techniques to enhance product appeal",
+        "keyWords": ["Packaging design", "Labeling", "Product presentation", "Brand identity"]
+    },
+    {
+        "id": 13,
+        "category": "Products",
+        "topic": "The importance of product quality and customer satisfaction",
+        "keyWords": ["Product quality", "Customer satisfaction", "Brand reputation", "Product reviews"]
+    },
+    {
+        "id": 14,
+        "category": "Products",
+        "topic": "The role of product differentiation in a competitive market",
+        "keyWords": ["Product differentiation", "Competitive advantage", "Unique selling proposition", "Market positioning"]
+    }
+]
